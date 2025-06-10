@@ -25,7 +25,7 @@ https://youtu.be/XhSrErXc-Zs?si=BkAL8Ajgot6Tvkie
 ![image](https://github.com/user-attachments/assets/d501a6bb-398b-4c8d-83d7-059b0e904eff)
 
 # CONFUSION MATRIX (ASL WORDS)
-![image](https://github.com/user-attachments/assets/77c92fe1-db5c-4bee-8fb1-d8f4adc66ce6)
+![image](https://github.com/user-attachments/assets/5625870e-e769-4f5f-92b1-618ea0bd186d)
 
 # CONFUSION MATRIX (ASL NUMBERS)
 ![image](https://github.com/user-attachments/assets/b3b30792-603f-4956-ad67-963aa6235d1c)
